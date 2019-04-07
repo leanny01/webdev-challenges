@@ -1,7 +1,7 @@
  
 
 
-## H2 Challenge 1  
+##  Challenge 1  
 
 1.  *[Conquer]( https://www.free-css.com/free-css-templates/page196/conquer)* is a website template developed using   bootstrap. The site adapts to any device.
 	Your goal is to develop a version of the same website using  plain html and CSS only.
@@ -10,7 +10,7 @@
 
 2.  Upon completion your are required to have your code uploaded to GitHub.
 
-## H2 Resources:
+##  Resources:
 
 1. [Get started with Git and GitHub](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) 
 
