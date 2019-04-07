@@ -3,7 +3,7 @@
 
 ##  Challenge 1  
 
-1.  *[Conquer]( https://www.free-css.com/free-css-templates/page196/conquer)* is a website template developed using   bootstrap. The site adapts to any device.
+1.  [Conquer]( https://www.free-css.com/free-css-templates/page196/conquer) is a website template developed using   bootstrap. The site adapts to any device.
 	Your goal is to develop a version of the same website using  plain html and CSS only.
 
 	
