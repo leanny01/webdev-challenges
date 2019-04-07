@@ -1,2 +1,3 @@
 # webdev-challenges
-A repository of challenges to those with the  will to be become full stack web developer learn by doing.
+A collection of challenges for fullstack webdeloper learners.
+>Anyone is welcome to make a pull request to suggest challenges
