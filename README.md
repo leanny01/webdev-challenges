@@ -8,4 +8,4 @@ The following technologies are used to achieve the above goal.
  4. Reactjs
  
 > NB: This collection will keep growing with time. I m on the lookout for better ways to introduce these technologies to learners. 
-> I am open to feedbacks and pull requests to make these challenges better.
+> Feedbacks and pull requests are more than welcome.
