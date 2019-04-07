@@ -14,7 +14,7 @@
 1. [Get started with Git and GitHub](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
 
-2. *[Get started with HTML and CSS](https://learn.freecodecamp.org/)*. Learn  the section Responsive Web Design Certification (300 hours)* to have a good grasp of css and html. You are not required to proceed unto the Javascript section at this point. Practice as much as you can before applying your skill on the challenge.
+2. [Get started with HTML and CSS](https://learn.freecodecamp.org/). Learn  the section Responsive Web Design Certification (300 hours)* to have a good grasp of css and html. You are not required to proceed unto the Javascript section at this point. Practice as much as you can before applying your skill on the challenge.
 
 #### Duration: 2 Weeks
 
