@@ -15,12 +15,12 @@
 2. [How to Use GitHub (video)](https://www.youtube.com/watch?v=Loav1kbA640)
 3. [Get started with HTML and CSS](https://learn.freecodecamp.org/). Learn  the following sections:
 
-..1 Introduction to Basic HTML and HTML5
-..2 Introduction to Basic CSS
-..3 Applied Visual Design (optional)
-..4 Applied Accessibility(optional)
-..5 Introduction to the CSS Flexbox Challenges
-..6 Introduction to the Responsive Web Design Projects
+**a Introduction to Basic HTML and HTML5
+**b Introduction to Basic CSS
+**c Applied Visual Design (optional)
+**d Applied Accessibility(optional)
+**e Introduction to the CSS Flexbox Challenges
+**f Introduction to the Responsive Web Design Projects
 to have a good grasp of css and html. You are not required to proceed unto the Javascript section at this point. Practice as much as you can before applying your skill on the challenge.
 
 #### Duration: 2 Weeks
