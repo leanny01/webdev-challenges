@@ -21,6 +21,7 @@
 	* Applied Accessibility(optional)
 	* Introduction to the CSS Flexbox Challenges
 	* Introduction to the Responsive Web Design Projects
+	
 to have a good grasp of css and html. You are not required to proceed unto the Javascript section at this point. Practice as much as you can before applying your skill on the challenge.
 
 #### Duration: 2 Weeks
